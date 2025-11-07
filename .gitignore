@@ -1,0 +1,23 @@
+
+# Файлы окружения
+.env
+.env.local
+.env.production
+.env.development
+
+# Папки с зависимостями, бинарными файлами
+static/
+.venv/
+backend/static/
+node_modules/
+__pycache__/
+*.pyc
+*.pyo
+
+# Файлы операционных систем
+.DS_Store
+Thumbs.db
+
+# Логи и временные файлы
+*.log
+*.tmp
